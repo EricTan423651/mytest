@@ -9,7 +9,7 @@ package cn.itcast.demo;
 public class Test {
 
 	public static void main(String[] args) {
-		System.out.println("========1111=====发发发你===");
+		System.out.println("========1111=发发发====发发发你===");
 	}
 
 }
